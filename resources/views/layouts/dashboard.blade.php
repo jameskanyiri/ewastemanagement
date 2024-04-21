@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="{{ asset('assets2/css/components.css') }}">
     <!-- Custom style CSS -->
     <link rel="stylesheet" href="{{ asset('assets2/css/custom.css') }}">
-    <link rel='shortcut icon' type='image/x-icon' href='assets2/img/favicon.ico' />
+    {{-- <link rel='shortcut icon' type='image/x-icon' href='assets2/img/favicon.ico' /> --}}
 </head>
 
 <body>
